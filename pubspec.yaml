@@ -3,7 +3,6 @@ description: Chopper is an http client generator using source_gen and inspired f
 version: 3.0.4
 homepage: https://hadrien-lejard.gitbook.io/chopper
 repository: https://github.com/DennisMuchiri/tectonic_chopper_generator #https://github.com/lejard-h/chopper
-author: Hadrien Lejard <hadrien.lejard@gmail.com>
 
 environment:
   sdk: '>=2.2.2 <3.0.0'
@@ -15,7 +14,7 @@ dependencies:
   logging: ^0.11.0
   source_gen: ^0.9.0
   #chopper: ^3.0.0
-  tectonic_chopper: 3.0.3
+  tectonic_chopper: ^3.0.3
   code_builder: ^3.0.0
   dart_style: ^1.0.10
   built_collection: ^4.0.0

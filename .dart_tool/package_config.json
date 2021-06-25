@@ -362,13 +362,13 @@
       "languageVersion": "2.4"
     },
     {
-      "name": "chopper_generator",
+      "name": "tectonic_chopper_generator",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.2"
     }
   ],
-  "generated": "2021-06-25T10:56:17.417609Z",
+  "generated": "2021-06-25T11:02:55.447722Z",
   "generator": "pub",
   "generatorVersion": "2.7.2"
 }
